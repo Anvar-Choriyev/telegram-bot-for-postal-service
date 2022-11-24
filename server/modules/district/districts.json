@@ -1,0 +1,207 @@
+[
+    {
+        "id": "12",
+        "regionId": "1",
+        "name": "Konimex tumani"
+    },
+    {
+        "id": "13",
+        "regionId": "1",
+        "name": "Karmana tumani"
+    },
+    {
+        "id": "14",
+        "regionId": "1",
+        "name": "Qiziltepa tumani"
+    },
+    {
+        "id": "15",
+        "regionId": "1",
+        "name": "Xatirchi tumani"
+    },
+    {
+        "id": "16",
+        "regionId": "1",
+        "name": "Navbahor tumani"
+    },
+    {
+        "id": "17",
+        "regionId": "1",
+        "name": "Nurota tumani"
+    },
+    {
+        "id": "18",
+        "regionId": "1",
+        "name": "Tomdi tumani"
+    },
+    {
+        "id": "19",
+        "regionId": "1",
+        "name": "Uchquduq tumani"
+    },
+    {
+        "id": "20",
+        "regionId": "2",
+        "name": "Bektemir tumani"
+    },
+    {
+        "id": "21",
+        "regionId": "2",
+        "name": "Mirobod tumani"
+    },
+    {
+        "id": "22",
+        "regionId": "2",
+        "name": "Mirzo Ulug'bek tumani"
+    },
+    {
+        "id": "23",
+        "regionId": "2",
+        "name": "Sergeli tumani"
+    },
+    {
+        "id": "24",
+        "regionId": "2",
+        "name": "Olmazor tumani"
+    },
+    {
+        "id": "25",
+        "regionId": "2",
+        "name": "Uchtepa tumani"
+    },
+    {
+        "id": "26",
+        "regionId": "2",
+        "name": "Shayxontoxur tumani"
+    },
+    {
+        "id": "27",
+        "regionId": "2",
+        "name": "Yashnobod tumani"
+    },
+    {
+        "id": "28",
+        "regionId": "2",
+        "name": "Chilonzor tumani"
+    },
+    {
+        "id": "29",
+        "regionId": "2",
+        "name": "Yunusobod tumani"
+    },
+    {
+        "id": "30",
+        "regionId": "2",
+        "name": "Yakkasaroy tumani"
+    },
+    {
+        "id": "31",
+        "regionId": "3",
+        "name": "Bulung'ur tumani"
+    },
+    {
+        "id": "32",
+        "regionId": "3",
+        "name": "Ishtixon tumani"
+    },
+    {
+        "id": "33",
+        "regionId": "3",
+        "name": "Jomboy tumani"
+    },
+    {
+        "id": "34",
+        "regionId": "3",
+        "name": "Kattaqo'rg'on tumani"
+    },
+    {
+        "id": "35",
+        "regionId": "3",
+        "name": "Qo'shrabot tumani"
+    },
+    {
+        "id": "36",
+        "regionId": "3",
+        "name": "Narpay tumani"
+    },
+    {
+        "id": "37",
+        "regionId": "3",
+        "name": "Nurobod tumani"
+    },
+    {
+        "id": "38",
+        "regionId": "3",
+        "name": "Oqdaro tumani"
+    },
+    {
+        "id": "39",
+        "regionId": "3",
+        "name": "Paxtachi tumani"
+    },
+    {
+        "id": "40",
+        "regionId": "3",
+        "name": "Payariq tumani"
+    },
+    {
+        "id": "41",
+        "regionId": "3",
+        "name": "Pasdarg'om tumani"
+    },
+    {
+        "id": "42",
+        "regionId": "3",
+        "name": "Samarqand tumani"
+    },
+    {
+        "id": "43",
+        "regionId": "3",
+        "name": "Toyloq tumani"
+    },
+    {
+        "id": "44",
+        "regionId": "3",
+        "name": "Urgut tumani"
+    },
+    {
+        "id": "45",
+        "regionId": "4",
+        "name": "Boyovut tumani"
+    },
+    {
+        "id": "46",
+        "regionId": "4",
+        "name": "Oqoltin tumani"
+    },
+    {
+        "id": "47",
+        "regionId": "4",
+        "name": "Guliston tumani"
+    },
+    {
+        "id": "48",
+        "regionId": "4",
+        "name": "Xovos tumani"
+    },
+    {
+        "id": "49",
+        "regionId": "4",
+        "name": "Mirzaobod tumani"
+    },
+    {
+        "id": "50",
+        "regionId": "4",
+        "name": "Sardoba tumani"
+    },
+    {
+        "id": "51",
+        "regionId": "4",
+        "name": "Sayxunobod tumani"
+    },
+    {
+        "id": "52",
+        "regionId": "4",
+        "name": "Sirdaryo tumani"
+    }
+]

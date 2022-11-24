@@ -1,0 +1,33 @@
+.layout {
+  overflow: hidden;
+}
+.layoutBox {
+  background-color: rgb(228, 228, 228);
+  flex-grow: 1;
+  padding: 3.2rem 8rem 2rem 3.5rem;
+  overflow: scroll;
+}
+.contents {
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 20%;
+  transition: all 300ms;
+}
+
+.containerFull {
+  width: 91%;
+  left: 9%;
+}
+
+.pageName {
+  font-weight: 500;
+  margin-bottom: 2.4rem;
+}

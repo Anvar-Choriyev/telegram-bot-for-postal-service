@@ -1,0 +1,75 @@
+@font-face {
+  font-family: Roboto;
+  src: url("../assets/fonts/Roboto/Roboto-Medium.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../assets/fonts/Roboto/Roboto-Bold.ttf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../assets/fonts/Roboto/Roboto-Regular.ttf");
+  font-weight: 400;
+}
+
+:root {
+  --black: #0e1427;
+  --blueViolet: #7d41ed;
+  --orange: #ff5f4a;
+  --green: #1fb186;
+  --darkGrey: #7a7a7a;
+  --grey: #a7abb6;
+  --wheat: #f5f5f5;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+a{
+text-decoration: none;
+color:inherit
+}
+
+.h1 {
+  font-size: 3.2rem;
+  line-height: 130%;
+}
+.h2 {
+  font-size: 2.4rem;
+  line-height: 130%;
+}
+.h3 {
+  font-size: 2.2rem;
+  line-height: 130%;
+}
+.h4 {
+  font-size: 2rem;
+  line-height: 130%;
+}
+.h5 {
+  font-size: 1.8rem;
+  line-height: 130%;
+}
+.h6 {
+  font-size: 1.6rem;
+  line-height: 130%;
+}
+
+.subtitle {
+  font-size: 1.4rem;
+  line-height: 130%;
+}

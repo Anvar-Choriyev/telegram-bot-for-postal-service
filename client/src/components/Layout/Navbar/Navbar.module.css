@@ -1,0 +1,85 @@
+.navbar {
+  padding: 1.6rem 13.8rem 1.6rem 3.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  position: relative;
+}
+
+.formControl {
+  position: relative;
+  width: 30%;
+  /* margin: 0 3rem; */
+}
+
+.searchSvg {
+  position: absolute;
+  top: 0.6rem;
+  right: 2rem;
+}
+
+.arrowForBtn {
+  width: 3rem;
+  height: 3rem;
+  cursor: pointer;
+  transition: all 300ms;
+  position: absolute;
+  top: 9rem;
+  left: -0.8%;
+  /* transform: translateY(-50%); */
+}
+
+.userInfo {
+  display: flex;
+  align-items: center;
+  gap: 3.6rem;
+}
+.userMenu {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+  position: relative;
+}
+.userMenuModal {
+  position: absolute;
+  bottom: -8rem;
+  left: 0;
+  width: 80%;
+  margin: 0 auto;
+  z-index: 600;
+  padding: 0.5rem 1rem;
+  background-color: #fff;
+  box-shadow: 0 0.3rem 0.5rem grey;
+  display: none;
+}
+
+.userMenuModalItem {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.4rem;
+  letter-spacing: 0.02rem;
+  cursor: pointer;
+  padding: 0.4rem 0.8rem;
+  width: 80%;
+  margin: 0.5rem auto;
+}
+.userMenuModalItem:hover {
+  background-color: #7d41ed;
+  border-radius: 0.5rem;
+  color: #fff;
+}
+
+.modalShow {
+  display: block;
+}
+
+.arrowRight {
+  transform: rotate(-180deg);
+}
+.arrowLeft {
+  transform: rotate(180deg);
+}
